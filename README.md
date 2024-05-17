@@ -1,11 +1,11 @@
-## . . . . . 💜 welcome to my profile 💜 . . . . . ##
-my name is Daiane Rocha 
--Estou estudando na Alura
--Estou me desenvolvendo na linguagem JavaScript
--Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+## . . . . . 💜 meus projetos 💜 . . . . . ##
 
-Você pode entrar em contato comigo 📫
-00001113934463sp@al.educacao.sp.gov.br
-![](https://tenor.com/pt-PT/view/hollow-knight-breakdance-sidebub-gif-26548668)
+fuja do pinguim https://scratch.mit.edu/projects/980752938
+roleta cassino https://scratch.mit.edu/projects/985131911
+diálogo https://scratch.mit.edu/projects/989602419
+melhores goleiros do futebol https://scratch.mit.edu/projects/1000143465
+ping pong rubro-negro https://scratch.mit.edu/projects/1006099982
+ping pong javascript https://editor.p5js.org/Day136/sketches/XiDpRoTgk
+
 
 
